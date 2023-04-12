@@ -1,0 +1,33 @@
+
+.firstDiv {
+
+    color: blue;
+
+}
+
+.secondDiv {
+
+    color: red;
+    background-color: gray;
+
+}
+
+#singledout {
+    color: brown;
+}
+
+*{
+    color: green;
+}
+
+h3 + ul{
+    border: 3px dotted purple;
+}
+
+ul a{
+    color: red;
+}
+
+ul a[href="www.w3Schools.com"]{
+    color: blue;
+}
